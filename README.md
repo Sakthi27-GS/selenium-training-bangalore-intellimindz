@@ -1,2 +1,3 @@
 # selenium-training-bangalore-intellimindz
-Selenium Training in Bangalore by IntelliMindz – Learn automation testing with Selenium WebDriver, TestNG, frameworks like Maven and Jenkins, and master real-time test case automation with hands-on projects.
+Learn automation testing with Selenium through IntelliMindz’s [Selenium Training in Bangalore](https://intellimindz.com/selenium-training-in-bangalore/).  
+Covers WebDriver, TestNG, real-time projects, and industry frameworks.
